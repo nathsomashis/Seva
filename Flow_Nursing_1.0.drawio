@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T10:38:30.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ef1Y1CZS3fcVpR-eZgzX" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T11:08:50.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HRsOz8-_X_EC7PfyK75M" version="21.2.9" type="github">
   <diagram name="Page-1" id="xXF_qz4q6ZDb1wTxfpjC">
     <mxGraphModel dx="1194" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,17 +10,11 @@
         <mxCell id="q4CnHlP4UFCQ45shWsL7-2" value="End-User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4CnHlP4UFCQ45shWsL7-3" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="70" y="240" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q4CnHlP4UFCQ45shWsL7-4" value="Service-User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="q4CnHlP4UFCQ45shWsL7-5" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="60" y="220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4CnHlP4UFCQ45shWsL7-6" value="Service-Provider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4CnHlP4UFCQ45shWsL7-7" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="40" height="40" as="geometry" />
@@ -34,11 +28,14 @@
         <mxCell id="q4CnHlP4UFCQ45shWsL7-10" value="&lt;ol style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Search &amp;amp; filter nurses.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Select &amp;amp; Book a nurse.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Feedback over booked nurses.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="40" width="185" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q4CnHlP4UFCQ45shWsL7-11" value="&lt;ol&gt;&lt;li&gt;Profile &amp;amp; edit.&lt;/li&gt;&lt;li&gt;Booking History.&lt;/li&gt;&lt;li&gt;Payment.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q4CnHlP4UFCQ45shWsL7-11" value="&lt;ol&gt;&lt;li&gt;Profile &amp;amp; edit.&lt;/li&gt;&lt;li&gt;Booking History.&lt;/li&gt;&lt;li&gt;Payment.&lt;/li&gt;&lt;li&gt;Preferences&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="50" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="q4CnHlP4UFCQ45shWsL7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="510" height="140" as="geometry" />
+        <mxCell id="q4CnHlP4UFCQ45shWsL7-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="510" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="q4CnHlP4UFCQ45shWsL7-14" value="&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Register caretaker or nurse.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="305" y="230" width="185" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
